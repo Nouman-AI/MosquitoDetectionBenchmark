@@ -1,0 +1,19 @@
+{
+  "method": "fasterrcnn_mobilenet_v3_large_fpn_training_config",
+  "method_id": "fasterrcnn_mobilenet_v3_large_fpn_traini",
+  "family": "AI_TorchVision_final",
+  "n_settings": 1,
+  "grid": [
+    {
+      "model": "fasterrcnn_mobilenet_v3_large_fpn",
+      "method_id": "T02_frcnn_mob",
+      "epochs": 200,
+      "image_size": 1056,
+      "batch_size": 1,
+      "patience": 30,
+      "learning_rate": 0.00025,
+      "weight_decay": 0.0005,
+      "selection_metric": "validation mAP50-95"
+    }
+  ]
+}

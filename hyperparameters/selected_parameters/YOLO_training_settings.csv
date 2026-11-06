@@ -1,0 +1,5 @@
+method,method_id,family,model,epochs,imgsz,batch,patience,selection_metric,status
+yolo_yolo11n,Y01_yolo11n,AI_YOLO,yolo11n.pt,200,1056,8,30,validation mAP50-95,ok
+yolo_yolo11s,Y02_yolo11s,AI_YOLO,yolo11s.pt,200,1056,8,30,validation mAP50-95,ok
+yolo_yolov8n,Y03_yolov8n,AI_YOLO,yolov8n.pt,200,1056,8,30,validation mAP50-95,ok
+yolo_yolov8s,Y04_yolov8s,AI_YOLO,yolov8s.pt,200,1056,8,30,validation mAP50-95,ok

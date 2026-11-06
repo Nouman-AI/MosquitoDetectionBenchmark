@@ -1,0 +1,19 @@
+{
+  "method": "maskrcnn_resnet50_fpn_v2_training_config",
+  "method_id": "maskrcnn_resnet50_fpn_v2_training_config",
+  "family": "AI_TorchVision_final",
+  "n_settings": 1,
+  "grid": [
+    {
+      "model": "maskrcnn_resnet50_fpn_v2",
+      "method_id": "T03_mask",
+      "epochs": 200,
+      "image_size": 1056,
+      "batch_size": 1,
+      "patience": 30,
+      "learning_rate": 0.00025,
+      "weight_decay": 0.0005,
+      "selection_metric": "validation mAP50-95"
+    }
+  ]
+}

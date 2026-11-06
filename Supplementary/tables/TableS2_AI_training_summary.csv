@@ -1,0 +1,11 @@
+method_id,Method,Group,best_epoch_from_curve,best_validation_mAP50_95,epochs_recorded
+Y01_yolo11n,YOLO11n,YOLO,90,0.8988,120
+Y02_yolo11s,YOLO11s,YOLO,148,0.8994,178
+Y03_yolov8n,YOLOv8n,YOLO,155,0.9013,185
+Y04_yolov8s,YOLOv8s,YOLO,178,0.8974,200
+T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,110,0.7560,140
+T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,76,0.8990,106
+T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,114,0.9005,144
+T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,37,0.8902,67
+T06_ssd300,SSD300-VGG16,TorchVision AI,112,0.7120,142
+T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,126,0.2167,156

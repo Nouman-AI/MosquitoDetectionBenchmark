@@ -1,0 +1,44 @@
+{
+  "method": "TORCHVISION_CONF_GRID",
+  "method_id": "TORCHVISION_CONF_GRID",
+  "family": "AI_TorchVision_final",
+  "n_settings": 12,
+  "grid": [
+    {
+      "conf": 0.05
+    },
+    {
+      "conf": 0.1
+    },
+    {
+      "conf": 0.15
+    },
+    {
+      "conf": 0.2
+    },
+    {
+      "conf": 0.25
+    },
+    {
+      "conf": 0.3
+    },
+    {
+      "conf": 0.4
+    },
+    {
+      "conf": 0.5
+    },
+    {
+      "conf": 0.6
+    },
+    {
+      "conf": 0.7
+    },
+    {
+      "conf": 0.8
+    },
+    {
+      "conf": 0.9
+    }
+  ]
+}

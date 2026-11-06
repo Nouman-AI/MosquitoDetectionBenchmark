@@ -1,0 +1,231 @@
+method_key,method_id,Method,Group,iou_threshold,AP
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.5000,0.9395
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.5500,0.8880
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.6000,0.7703
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.6500,0.6169
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.7000,0.3687
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.7500,0.1546
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.8000,0.0375
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.8500,0.0036
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.9000,0.0001
+dog_patch_box,N01_dog,DoG,Classical non-AI,0.9500,0.0000
+log_patch_box,N02_log,LoG,Classical non-AI,0.5000,0.9866
+log_patch_box,N02_log,LoG,Classical non-AI,0.5500,0.9795
+log_patch_box,N02_log,LoG,Classical non-AI,0.6000,0.9311
+log_patch_box,N02_log,LoG,Classical non-AI,0.6500,0.8978
+log_patch_box,N02_log,LoG,Classical non-AI,0.7000,0.8856
+log_patch_box,N02_log,LoG,Classical non-AI,0.7500,0.7908
+log_patch_box,N02_log,LoG,Classical non-AI,0.8000,0.6060
+log_patch_box,N02_log,LoG,Classical non-AI,0.8500,0.2014
+log_patch_box,N02_log,LoG,Classical non-AI,0.9000,0.0150
+log_patch_box,N02_log,LoG,Classical non-AI,0.9500,0.0002
+mser_dark,N03_mser,MSER,Classical non-AI,0.5000,0.6004
+mser_dark,N03_mser,MSER,Classical non-AI,0.5500,0.5992
+mser_dark,N03_mser,MSER,Classical non-AI,0.6000,0.5811
+mser_dark,N03_mser,MSER,Classical non-AI,0.6500,0.5299
+mser_dark,N03_mser,MSER,Classical non-AI,0.7000,0.4592
+mser_dark,N03_mser,MSER,Classical non-AI,0.7500,0.2458
+mser_dark,N03_mser,MSER,Classical non-AI,0.8000,0.0440
+mser_dark,N03_mser,MSER,Classical non-AI,0.8500,0.0074
+mser_dark,N03_mser,MSER,Classical non-AI,0.9000,0.0007
+mser_dark,N03_mser,MSER,Classical non-AI,0.9500,0.0000
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.5000,0.9706
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.5500,0.9669
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.6000,0.9254
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.6500,0.8823
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.7000,0.8466
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.7500,0.6751
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.8000,0.4368
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.8500,0.1697
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.9000,0.0126
+otsu_dark_cc,N04_otsu,Otsu,Classical non-AI,0.9500,0.0002
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.5000,0.9863
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.5500,0.9835
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.6000,0.9427
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.6500,0.9012
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.7000,0.8748
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.7500,0.7778
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.8000,0.5214
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.8500,0.1765
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.9000,0.0089
+adaptive_gaussian_cc,N05_adapt,Adaptive Gaussian,Classical non-AI,0.9500,0.0002
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.5000,0.9705
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.5500,0.9499
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.6000,0.8755
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.6500,0.7983
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.7000,0.6624
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.7500,0.4485
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.8000,0.2539
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.8500,0.0689
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.9000,0.0034
+blackhat_cc,N06_blackhat,Black-hat,Classical non-AI,0.9500,0.0001
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.5000,0.8757
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.5500,0.7025
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.6000,0.5087
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.6500,0.3823
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.7000,0.2225
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.7500,0.0838
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.8000,0.0245
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.8500,0.0052
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.9000,0.0001
+local_minima_dark,N07_localmin,Local-minimum,Classical non-AI,0.9500,0.0000
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.5000,0.5012
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.5500,0.4965
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.6000,0.4527
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.6500,0.4135
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.7000,0.3457
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.7500,0.2505
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.8000,0.1424
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.8500,0.0345
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.9000,0.0010
+canny_contour,N08_canny,Canny contour,Classical non-AI,0.9500,0.0000
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.5000,0.9884
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.5500,0.9787
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.6000,0.9460
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.6500,0.9079
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.7000,0.8942
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.7500,0.7804
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.8000,0.5730
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.8500,0.2283
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.9000,0.0109
+median_bg_diff,N09_medianbg,Median background difference,Classical non-AI,0.9500,0.0002
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.5000,0.0734
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.5500,0.0721
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.6000,0.0674
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.6500,0.0621
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.7000,0.0545
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.7500,0.0361
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.8000,0.0155
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.8500,0.0037
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.9000,0.0004
+mog2_bgsub,N10_mog2,MOG2 background subtraction,Classical non-AI,0.9500,0.0002
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.5000,0.3278
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.5500,0.3228
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.6000,0.2839
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.6500,0.2538
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.7000,0.2306
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.7500,0.1653
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.8000,0.1016
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.8500,0.0311
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.9000,0.0045
+knn_bgsub,N11_knn,KNN background subtraction,Classical non-AI,0.9500,0.0008
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.5000,0.2415
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.5500,0.1833
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.6000,0.1281
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.6500,0.0868
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.7000,0.0546
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.7500,0.0273
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.8000,0.0144
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.8500,0.0106
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.9000,0.0014
+frame_diff,N12_framediff,Frame difference,Classical non-AI,0.9500,0.0001
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.5000,0.2700
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.5500,0.2686
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.6000,0.2498
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.6500,0.2306
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.7000,0.2110
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.7500,0.1640
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.8000,0.1054
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.8500,0.0365
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.9000,0.0011
+simpleblob_dark,N13_blob,SimpleBlob,Classical non-AI,0.9500,0.0000
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.5000,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.5500,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.6000,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.6500,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.7000,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.7500,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.8000,0.9898
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.8500,0.9887
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.9000,0.8467
+yolo_yolo11n,Y01_yolo11n,YOLO11n,YOLO,0.9500,0.1429
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.5000,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.5500,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.6000,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.6500,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.7000,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.7500,0.9899
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.8000,0.9896
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.8500,0.9890
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.9000,0.8543
+yolo_yolo11s,Y02_yolo11s,YOLO11s,YOLO,0.9500,0.2125
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.5000,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.5500,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.6000,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.6500,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.7000,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.7500,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.8000,0.9899
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.8500,0.9880
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.9000,0.8675
+yolo_yolov8n,Y03_yolov8n,YOLOv8n,YOLO,0.9500,0.2096
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.5000,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.5500,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.6000,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.6500,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.7000,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.7500,0.9899
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.8000,0.9897
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.8500,0.9756
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.9000,0.8154
+yolo_yolov8s,Y04_yolov8s,YOLOv8s,YOLO,0.9500,0.1816
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.5000,0.9892
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.5500,0.9892
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.6000,0.9892
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.6500,0.9892
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.7000,0.9891
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.7500,0.9891
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.8000,0.9887
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.8500,0.9711
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.9000,0.7478
+fasterrcnn_resnet50_fpn_v2,T01_frcnn_r50,Faster R-CNN ResNet50-FPN-V2,TorchVision AI,0.9500,0.0921
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.5000,0.9794
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.5500,0.9791
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.6000,0.9788
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.6500,0.9783
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.7000,0.9773
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.7500,0.9513
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.8000,0.8578
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.8500,0.6642
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.9000,0.3134
+fasterrcnn_mobilenet_v3_large_fpn,T02_frcnn_mob,Faster R-CNN MobileNetV3-Large-FPN,TorchVision AI,0.9500,0.0366
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.5000,0.9900
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.5500,0.9900
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.6000,0.9900
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.6500,0.9899
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.7000,0.9899
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.7500,0.9898
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.8000,0.9895
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.8500,0.9752
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.9000,0.7398
+maskrcnn_resnet50_fpn_v2,T03_mask,Mask R-CNN ResNet50-FPN-V2,TorchVision AI,0.9500,0.1344
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.5000,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.5500,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.6000,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.6500,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.7000,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.7500,0.9894
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.8000,0.9889
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.8500,0.9594
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.9000,0.6926
+retinanet_resnet50_fpn_v2,T04_retina,RetinaNet ResNet50-FPN-V2,TorchVision AI,0.9500,0.1063
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.5000,0.8954
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.5500,0.8838
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.6000,0.8831
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.6500,0.8825
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.7000,0.8612
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.7500,0.8113
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.8000,0.6910
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.8500,0.5294
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.9000,0.3368
+ssd300_vgg16,T06_ssd300,SSD300-VGG16,TorchVision AI,0.9500,0.0467
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.5000,0.4510
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.5500,0.3982
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.6000,0.3320
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.6500,0.2607
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.7000,0.1932
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.7500,0.1287
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.8000,0.0706
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.8500,0.0316
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.9000,0.0075
+ssdlite320_mobilenet_v3_large,T07_ssdlite,SSDLite320-MobileNetV3-Large,TorchVision AI,0.9500,0.0025

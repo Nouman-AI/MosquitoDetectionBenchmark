@@ -1,0 +1,19 @@
+{
+  "method": "retinanet_resnet50_fpn_v2_training_config",
+  "method_id": "retinanet_resnet50_fpn_v2_training_confi",
+  "family": "AI_TorchVision_final",
+  "n_settings": 1,
+  "grid": [
+    {
+      "model": "retinanet_resnet50_fpn_v2",
+      "method_id": "T04_retina",
+      "epochs": 200,
+      "image_size": 1056,
+      "batch_size": 1,
+      "patience": 30,
+      "learning_rate": 0.0002,
+      "weight_decay": 0.0005,
+      "selection_metric": "validation mAP50-95"
+    }
+  ]
+}

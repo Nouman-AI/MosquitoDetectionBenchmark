@@ -1,0 +1,19 @@
+{
+  "method": "ssdlite320_mobilenet_v3_large_training_config",
+  "method_id": "ssdlite320_mobilenet_v3_large_training_c",
+  "family": "AI_TorchVision_final",
+  "n_settings": 1,
+  "grid": [
+    {
+      "model": "ssdlite320_mobilenet_v3_large",
+      "method_id": "T07_ssdlite",
+      "epochs": 200,
+      "image_size": 1056,
+      "batch_size": 2,
+      "patience": 30,
+      "learning_rate": 0.0002,
+      "weight_decay": 0.0005,
+      "selection_metric": "validation mAP50-95"
+    }
+  ]
+}

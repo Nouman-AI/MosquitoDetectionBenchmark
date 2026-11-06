@@ -1,0 +1,19 @@
+{
+  "method": "ssd300_vgg16_training_config",
+  "method_id": "ssd300_vgg16_training_config",
+  "family": "AI_TorchVision_final",
+  "n_settings": 1,
+  "grid": [
+    {
+      "model": "ssd300_vgg16",
+      "method_id": "T06_ssd300",
+      "epochs": 200,
+      "image_size": 1056,
+      "batch_size": 1,
+      "patience": 30,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.0005,
+      "selection_metric": "validation mAP50-95"
+    }
+  ]
+}
