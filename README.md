@@ -59,7 +59,7 @@ The requirements specify supported package ranges for this portable code release
 
 ## Data layout for running the scripts
 
-The scripts accept Pascal VOC image/annotation pairs organized by split. The dataset is supplied independently of the source code.
+The dataset is not included in this repository. The scripts accept Pascal VOC image and annotation pairs organized using the following directory structure:
 
 ```text
 data/
@@ -74,7 +74,7 @@ data/
     annotations/
 ```
 
-Image and annotation files share a base name. Image folders may contain nested subdirectories, with corresponding XML files beneath the annotation folder.
+Image and annotation files should share the same base name. Image folders may contain nested subdirectories, with corresponding XML files in the annotation folders.
 
 ## Training
 
