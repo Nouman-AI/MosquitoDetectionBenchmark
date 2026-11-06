@@ -1,0 +1,9 @@
+# Dependencies for the Python benchmark scripts.
+# PyTorch and TorchVision require compatible CPU or CUDA builds.
+numpy>=1.26,<3
+Pillow>=10,<13
+opencv-python>=4.8,<5
+PyYAML>=6,<7
+torch>=2.3,<3
+torchvision>=0.18,<1
+ultralytics>=8.3,<9
