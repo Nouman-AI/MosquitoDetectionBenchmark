@@ -116,9 +116,17 @@ The public scripts implement the principal model families and evaluation tasks u
 
 The selected parameter files record the final configurations, whereas the JSON grids record candidate configurations. Numerical benchmark results and detailed method comparisons are reported in the manuscript and accompanying supplementary material. The original recordings and annotation data are not included here.
 
-## Checkpoints
+## Trained Model Weights
 
-The ten deep-learning model identifiers and accepted checkpoint filename formats are documented in [`model_weights/README.md`](model_weights/README.md). A persistent archival DOI may also be associated with a separately deposited model collection.
+The trained checkpoints for all ten deep-learning models evaluated in the benchmark are publicly available through Zenodo.
+
+Zenodo: https://doi.org/10.5281/zenodo.24021658
+
+The archive contains four YOLO models and six TorchVision models. The checkpoint filenames identify the corresponding model architectures and method identifiers.
+
+Citation:
+
+Javed, N. (2026). Trained Deep Learning Models for Mosquito Detection Benchmarking (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24021658
 
 ## Citation
 
