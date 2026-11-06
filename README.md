@@ -32,7 +32,7 @@ The manuscript describes 20 independent ten-minute video recordings, separated b
 
 The original development experiment used a smaller sampled training/validation subset; its selected checkpoints and parameters were retained for the subsequent evaluation on the expanded 1,500-image test set. The reported experimental results therefore do not represent fresh retraining on all 7,000 training images.
 
-Raw recordings, image files, Pascal VOC annotations, and the recording-level split manifest are not distributed in this repository.
+The data supporting the findings of this study may be made available by the corresponding author upon reasonable request, subject to applicable institutional approvals and data-sharing restrictions.
 
 ## Repository files
 
